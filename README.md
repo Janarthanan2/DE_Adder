@@ -68,8 +68,11 @@ Carry = AB + ACin+BCin
    
 ## RTL Schematic:
 1) HALF ADDER
+
 ![Screenshot 2023-06-05 215037](https://github.com/Janarthanan2/DE_Adder/assets/119393515/f95db023-7325-4345-bf7c-48ffb43bbad8)
+
 2) FULL ADDER
+
 ![Screenshot 2023-06-05 215131](https://github.com/Janarthanan2/DE_Adder/assets/119393515/45b8d8ff-8055-432a-be2e-21c752870dd5)
 
 
